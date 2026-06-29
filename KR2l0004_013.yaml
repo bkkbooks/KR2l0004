@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2l0004/krp/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 翰苑羣書題記翰苑秩清地禁㳂唐迄今為薦紳榮遵世蒙國恩父子兄弟接武而進實為千載幸遇曩嘗稡遺事一編朅來建鄴以家舊藏李肇元稹韋處厚韋執誼楊巨丁居晦洎我宋數公凡有紀於此者併刋之木仍以國朝年表中興題名附乾道九年二月七日番陽洪遵書于清漪閣
+  hash: sha256:b2dda2b41344e44cd51d661d28b88e49d78bbd30ab58b14a2fb5c01b13ada24e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2l0004_WYG_013-1a, image: WYG0595/WYG0595-0415c.png}
+metadata:
+  title: 翰苑群書
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:47:51.338570'
+  juan_title: 題記
+  source:
+    repository: kanripo
+    path: KR2l0004/KR2l0004_013.txt
+hash: sha256:8397b385631bb5bcce77a10ec55407f1b3af36a6bcfb2f6e7e1faf130bda73bb

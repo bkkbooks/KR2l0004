@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2l0004/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十二
+  hash: sha256:683b84fba18cbfaf1b4f7fb7adb0cf04b078729870de9e8d06bf823f11967f61
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2l0004_WYG_000-1a, image: WYG0595/WYG0595-0341a.png}
+body:
+  text: 翰苑羣書目録職官類一官制之屬卷一李肇翰林志卷二元稹承㫖學士院記卷三韋處厚翰林學士記卷四韋執誼翰林院故事卷五楊巨翰林學士院舊規卷六丁居晦重修承㫖學士壁記卷七李昉禁林宴㑹集卷八蘇易簡續翰林志卷九蘇耆次續翰林志卷十學士年表卷十一翰苑題名卷十二翰苑遺事臣等謹案翰苑羣書十二卷宋學士承㫖洪遵編後有乾道九年遵題記陳振孫書録解題曰自李肇而下十一家及年表中興後題名共為一書此本所載為李肇翰林志元稹承㫖學士院記韋處厚翰林學士記韋執誼翰林院故事楊巨翰林學士院舊規丁居晦重修承㫖學士壁記李昉禁林宴㑹集蘇易簡續翰林志蘇耆次續翰林志學士年表翰苑題名翰苑遺事凡十二種其遺事為遵所續年表題名之外所收不過九家與振孫所記不合案文獻通考所載尚有唐張著翰林盛事宋李宗諤翰苑雜記若合此二家正足十一家之數殆原本有之而今佚也其書於厯代翰林典故頗為詳贍足資考覆録之以備職官類之一種焉乾隆四十二年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:bd1297477a419d48f465ad909f526c25d9f835e8da4ba8343773cf83b3601d12
+metadata:
+  title: 翰苑群書
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:47:51.338570'
+  juan_title: 目録
+  source:
+    repository: kanripo
+    path: KR2l0004/KR2l0004_000.txt
+hash: sha256:282bec6cc4d57728aae3bc49481adeb596cefa6c32c0b86134dbefd72b97de1e
