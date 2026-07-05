@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 翰苑羣書題記翰苑秩清地禁㳂唐迄今為薦紳榮遵世蒙國恩父子兄弟接武而進實為千載幸遇曩嘗稡遺事一編朅來建鄴以家舊藏李肇元稹韋處厚韋執誼楊巨丁居晦洎我宋數公凡有紀於此者併刋之木仍以國朝年表中興題名附乾道九年二月七日番陽洪遵書于清漪閣
-  hash: sha256:b2dda2b41344e44cd51d661d28b88e49d78bbd30ab58b14a2fb5c01b13ada24e
+  text: 翰苑羣書題記翰苑秩清地禁㳂唐迄今為薦紳榮遵世蒙國恩父子兄弟接武而進實為千載幸遇曩嘗稡遺事一編朅來建鄴以家舊藏李肈元稹韋處厚韋執誼楊鉅丁居晦洎我宋數公凡有紀於此者併刋之木仍以國朝年表中興題名附乾道九年二月七日番陽洪遵書于清漪閣
+  hash: sha256:a3b8a9ee10f32ac50617f273079c111cb7e9fb39b0ffd037393b2ef7f1b684b5
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2l0004_WYG_013-1a, image: WYG0595/WYG0595-0415c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2l0004/KR2l0004_013.txt
-hash: sha256:8397b385631bb5bcce77a10ec55407f1b3af36a6bcfb2f6e7e1faf130bda73bb
+hash: sha256:9789f38e8cac5d7a2885c2f1f86ad3d0fffb5d782cd351032a86215c4885b51d
